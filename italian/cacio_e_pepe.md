@@ -131,6 +131,7 @@ forms. Serve by topping with the guanciale in addition to the pepper and cheese 
 ### Nutricion
 
 | energy        | 900 kcal |
+| ---           | ---      |
 | fat           | 46g      |
 | - saturated   | 13g      |
 | carbohydrates | 60g      |
@@ -189,6 +190,7 @@ mixture. Mix vigorously until a silky sauce forms. Serve similarly to alla grici
 ### Nutricion
 
 | energy        | 950 kcal  |
+| ---           | ---       |
 | fat           | 50g       |
 | - saturated   | 13g       |
 | carbohydrates | 60g       |
