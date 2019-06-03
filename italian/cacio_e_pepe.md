@@ -96,6 +96,7 @@ Pair with a simple Italian white (ex. Orvieto or Vermentino) or red (ex. Chianti
 Depends on used cheese, but roughly (per person):
 
 | energy        | 500 kcal |
+| ---           | ---      |
 | fat           | 16g      |
 | - saturated   | 13g      |
 | carbohydrates | 60g      |
