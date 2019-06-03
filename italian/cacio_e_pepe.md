@@ -81,7 +81,7 @@ This will temper the cheese so it doesn’t split when you add it to the pasta. 
 of the pepper to the cheese mixture, and reserve the rest. Go back to the frying pan.
 
 When pasta reaches al dente (it will in total take a few minutes longer than the regular way), you want to have a little, but not very much liquid left
-in the pan. Add the cheesy starchy peppery mix, and stir it in vigorously until it forms a cohesive sauce. You know it’s good when it looks like
+in the pan. Take off the heat, add the cheesy starchy peppery mix, and stir it in vigorously until it forms a cohesive sauce. You know it’s good when it looks like
 liquid silk and sticks to the pasta, completely covering it.
 
 Serve by taking a carving fork and twirling the pasta around it, then putting it onto a pan to form a Vesuvius like shape. Give up because this shit is hard
