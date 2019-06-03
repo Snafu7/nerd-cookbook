@@ -185,7 +185,7 @@ you can also additionally temper by adding some of the starchy water and whippin
 cook it.
 
 Treat pasta as normal. Add your guanciale fat before pasta is ready. When pasta is ready, take off the heat and mix in your cheese/egg/pepper
-mixture. Mix vigorously until a silky sauce forms. Serve similarly to alla gricia.
+mixture. Mix vigorously until a silky sauce forms. Serve similarly to alla gricia. For wine pairing, you probably want to go with a dry white Italian.
 
 ### Nutricion
 
