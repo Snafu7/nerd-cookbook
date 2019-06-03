@@ -110,7 +110,7 @@ Depends on used cheese, but roughly (per person):
 
 As in the cacio e pepe, and (per person):
 * 70g guanciale, which is pork jowl bacon-type product. Pancetta is allowed, and reasonable Italians will also accept
-  regular bacon in places guanciale is hard to find. Unfortunately, there are no reasonable Italians, so don’t do that in front of one.
+  regular bacon in places guanciale is hard to find. Unfortunately, there are no reasonable Italians. You have been warned.
 
 ### Instructions
 
