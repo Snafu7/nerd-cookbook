@@ -183,3 +183,13 @@ Depends on used ingredients, but roughly (per person):
 | - sugar       | 5g        |
 | protein       | 40g       |
 
+### Notes
+
+You might ask why I told you to put the ‘strong’ flavors on the top. Basically, what I call ‘strong’ flavors are flavors that tend to overpower the dish. It’s the stuff that
+makes other stuff taste of it.
+
+So, in this recipe, we put that kind of sauce on the top of the burger, because we want the flavor of the other ingredients to come through first, and then dominate, the flavor of
+the strong ingredients. So, strong ingredients go as far from the sauce they can. This is also another reason why ‘lettuce on bottom’ is a good idea.
+
+It’s a good thing to think about in other dishes - you want the strongest flavor to be the last thing that’s experienced. Otherwise, you might as well just make the entire dish the
+strongly flavoured thing.
