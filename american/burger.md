@@ -43,8 +43,8 @@ put the meat alongside for 20 minutes just before mincing. The lower temperature
 
 That being said, my preferred option is to hand-chop the meat. First off, it will lead to minimal amount of smearing, which is good.
 Second of all, the chunks won’t be uniform. This in turn makes for a more interesting texture. If you do it right, you get a meaty burger
-that dissolves in your mouth, but still retains a bite; with pockets of delicious juice enhancing the experience. This is the method I will
-describe in the recipe.
+that dissolves in your mouth, but still retains a bite; with pockets of delicious juice enhancing the experience. Finally, it is the most
+hygienic method, which will allow you to cook your meat rare if you want. This is the method I will describe in the recipe.
 
 ### Making the patty
 
