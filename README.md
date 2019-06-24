@@ -8,3 +8,8 @@ Overthinking cooking, one dish at a time
 ### American
 
 [A cheeseburger](american/burger.md)
+
+### Eastern
+
+#### Persian
+[Baghala gathogh (fava bean meal)](eastern/baghala_gathogh.md)
