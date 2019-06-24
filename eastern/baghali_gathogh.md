@@ -1,6 +1,6 @@
-# Baghala gathogh
+# Baghali gathogh
 
-Baghala gathogh is a very simple staple Persian dish. Good with frozen fava beans, great with fresh.
+Baghali gathogh is a very simple staple Persian/Iranian dish. Good with frozen fava beans, great with fresh.
 
 It uses the humble egg as sauce! Very economical, and actually quite healthy.
 

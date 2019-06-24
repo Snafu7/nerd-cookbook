@@ -12,4 +12,4 @@ Overthinking cooking, one dish at a time
 ### Eastern
 
 #### Persian
-[Baghala gathogh (fava bean meal)](eastern/baghala_gathogh.md)
+[Baghali gathogh (fava bean meal)](eastern/baghali_gathogh.md)
