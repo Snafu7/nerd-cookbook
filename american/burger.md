@@ -128,6 +128,8 @@ For dressing:
 * one and a half tablespoons of mayo
 * one and a half tablespoon of ketchup (I have a spicy, fancy ketchup I like using here)
 * 2 dashes of worcestershire sauce
+* a pinch of cayenne pepper. The reason we add this is because the sauce will be a pinkish hue - red specks of powdery
+  color will elevate the presentation a lot.
 * aaaand be creative. You got a bit of a spice relish that you’re not using too much? Add it in! As long as the bulk of
   the sauce is mayo/ketchup, it’s gonna work just fine and add a neat note to the burger.
   Best options are a very hot salsa (salsa verde with habanero is great) and something with sweetness, like a classic sweet relish.
