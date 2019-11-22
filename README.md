@@ -5,6 +5,7 @@ Overthinking cooking, one dish at a time
 
 * [Cacio e pepe and related dishes (gricia, amatriciana, carbonara)](italian/cacio_e_pepe.md)
 * [Aglio, olio e peperoncino](italian/aglio_e_olio.md)
+* [Pasta al limone](italian/al_limone.md)
 
 ### American
 
